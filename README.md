@@ -11,7 +11,7 @@ Files
 
 Overview,
 This Program or GUI Based Tkinter Application is build to manage Medical Store.
-Program uses mysql database to manage tables & queries, and csv & text files to print bills & save records of medicine sold & left in inventory.
+Program uses mysql database to manage tables & queries, and csv (.csv) & text (.txt) files to print bills & save records of medicine sold & left in inventory.
 Program also contain feature of minimum selling cost where seller will surely get minimum 10% profit on each product, that is program will inform about minimum price to get atleast 10% profit on product.
 
 Contains,
