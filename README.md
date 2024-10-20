@@ -3,10 +3,10 @@ GUI (Graphical User Interface) Based Medical Store Management System with Python
 RUN IN PYTHON SHELL OR TERMINAL (cmd)
 
 Files
--> medStoreGui.py contains source code
--> Medical_Store_Management_System contains description, source code & images of application
--> bill.csv file automatically created in program for data & records
--> Needed.txt automatically created in program for data & records
+-> medStoreGui.py contains source code.
+-> Medical_Store_Management_System.pdf contains description, source code & images of application.
+-> bill.csv file automatically created in program for data & records.
+-> Needed.txt automatically created in program for data & records.
 
 
 Overview
