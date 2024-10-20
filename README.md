@@ -2,6 +2,14 @@
 GUI (Graphical User Interface) Based Medical Store Management System with Python
 RUN IN PYTHON SHELL OR TERMINAL (cmd)
 
+Files
+-> medStoreGui.py contains source code
+-> Medical_Store_Management_System contains description, source code & images of application
+-> bill.csv file automatically created in program for data & records
+-> Needed.txt automatically created in program for data & records
+
+
+Overview
 This Program or GUI Based Tkinter Application is build to manage Medical Store.
 Program uses mysql database to manage tables & queries, and csv & text files to print bills & save records of medicine sold & left in inventory.
 Program also contain feature of minimum selling cost where seller will surely get minimum 10% profit on each product, that is program will inform about minimum price to get atleast 10% profit on product.
